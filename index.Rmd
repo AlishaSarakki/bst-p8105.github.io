@@ -9,4 +9,15 @@ output:
 
 # This is Jeff's awesome website
 
+What if I add some text here...?
+
 ![](https://media.giphy.com/media/drXGoW1iudhKw/giphy.gif)
+
+## Here's a subsection
+
+And here's some additional text...
+
+```{r}
+rnorm(10)
+```
+
